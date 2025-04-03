@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Carlos Alberto 😁
+## Bem-vindo(a) ao perfil de Carlos Alberto 🤘🏽
 
  <div>
    <a href="https://github.com/slayer-br">
