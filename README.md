@@ -17,7 +17,7 @@
 ### Me siga nas redes abaixo!
  
 <div> 
-  <a href="https://www.facebook.com/slayer.br/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-facebook-%254267B2?style=social&logo=facebook&logoColor=4267B2&color=4267B2"></a> 
+  <a href="https://www.facebook.com/slayer.br/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-facebook?style=social&logo=facebook&logoColor=3b5998&logoSize=auto&label=facebook&labelColor=3b5998"></a> 
   <a href="https://www.instagram.com/slayer_br1975/" target="_blank"><img src="https://img.shields.io/badge/-instagram%25FD1D1D?style=social&logo=instagram&logoColor=FD1D1D&label=instagram&labelColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-alberto-da-silva-93758b270/" target="_blank"><img src="https://img.shields.io/badge/-linkedin?style=social&logo=linkedin&logoColor=FD1D1D&logoSize=auto&label=linkedin&labelColor=FD1D1D" target="_blank"></a>
 </div>
