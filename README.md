@@ -13,10 +13,10 @@
 ### 📊 Estatísticas GitHub
 
 <div>
-  <a href="https://github.com/slayer-br">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slayer-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer-br&layout=compact&langs_count=6&theme=dark"/>
-  </a>
+   <a href="https://github.com/slayer-br" style="text-decoration: none">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slayer-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer-br&layout=compact&langs_count=6&theme=dark"/>
+   </a>
 </div>
 
 ---
