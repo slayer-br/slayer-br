@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil de Carlos Alberto 🤘🏽
-👨‍💻 Desenvolvedor desde 1993, com trajetória iniciada em aplicações desktop (VB, Clipper) e hoje focado em desenvolvimento web fullstack.
-🚀 Especialista em frontend responsivo (HTML, CSS, JavaScript) e back-end escalável com Node.js, TypeScript, Sequelize e MySQL.
+<p>👨‍💻 Desenvolvedor desde 1993, com trajetória iniciada em aplicações desktop (VB, Clipper) e hoje focado em desenvolvimento web fullstack.</p>p>
+<p></p>🚀 Especialista em frontend responsivo (HTML, CSS, JavaScript) e back-end escalável com Node.js, TypeScript, Sequelize e MySQL.</p>
 
  <div>
    <a href="https://github.com/slayer-br">
