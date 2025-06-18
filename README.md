@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil de Carlos Alberto 🤘🏽
-<p>👨‍💻 Desenvolvedor desde 1993, com trajetória iniciada em aplicações desktop (VB, Clipper) e hoje focado em desenvolvimento web fullstack.</p>p>
+<p>👨‍💻 Desenvolvedor desde 1993, com trajetória iniciada em aplicações desktop (VB, Clipper) e hoje focado em desenvolvimento web fullstack.</p>
 <p></p>🚀 Especialista em frontend responsivo (HTML, CSS, JavaScript) e back-end escalável com Node.js, TypeScript, Sequelize e MySQL.</p>
 
  <div>
