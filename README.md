@@ -1,12 +1,12 @@
 ## 👋 Bem-vindo(a) ao perfil de Carlos Alberto 🤘🏽
 
-👨‍💻 Desenvolvedor desde **1993**, com trajetória iniciada em aplicações desktop (VB, Clipper) e, ao longo dos anos, migrando com naturalidade para o desenvolvimento **web fullstack**.
+👨‍💻 Sou desenvolvedor desde **1993**, quando comecei criando aplicações desktop em Clipper e Visual Basic. Acompanhando a evolução da tecnologia, migrei para o desenvolvimento web, onde atuo hoje como desenvolvedor fullstack
 
-🚀 Atualmente foco em projetos com:
-- **Frontend** responsivo e acessível usando HTML, CSS e JavaScript moderno
-- **Backend** escalável com Node.js, TypeScript, Sequelize e MySQL
+🚀 Tenho sólida experiência com:
+- Frontend responsivo, acessível e fiel ao design, utilizando HTML semântico, CSS moderno (com variáveis), JavaScript e desafios visuais como os do Frontend Mentor.
+- Backend escalável, desenvolvendo sistemas complexos em Node.js e TypeScript, com MySQL e Sequelize, aplicando lógica de negócio robusta, integrações dinâmicas e segurança de dados.
 
-🎯 Busco sempre unir boas práticas, atenção aos detalhes e performance, criando soluções que funcionem de ponta a ponta — do banco de dados ao último pixel na tela.
+🎯 Sou movido por desafios técnicos, gosto de manter o código limpo e bem organizado, e estou sempre buscando melhorar — tanto em boas práticas quanto em performance e usabilidade.
 
 ---
 
