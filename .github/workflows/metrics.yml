@@ -18,25 +18,27 @@ jobs:
           user: slayer-br
           filename: metrics.svg
 
-          # FORÇA a saída para o Gist (impede commits no repositório)
+          # FORÇA a saída para o Gist
           output_action: gist
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
 
-          # Configurações de Repositórios e Forks
-          repositories_affiliations: owner, collaborator, organization_member
+          # Configuração de Busca nos Repositórios
+          repositories_affiliations: owner, collaborator
           repositories_forks: yes
 
-          # Plugin de linguagens
+          # Garante a busca detalhada em todos os repositórios do perfil
+          base_indepth: yes
+
+          # Plugin de Linguagens
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_indepth: yes
-          
-          # Aumenta o tempo limite de análise por repositório
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0%
+
+          # Desativa o indepth do plugin para usar o cálculo direto de bytes da API do GitHub
+          plugin_languages_indepth: no
 
           plugin_lines: yes
