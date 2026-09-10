@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/slayer-br">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=slayer-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=slayer-br&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas GitHub" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer-br&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas" />
   </a>
 </div>
