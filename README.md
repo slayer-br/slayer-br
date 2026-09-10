@@ -14,8 +14,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <a href="https://github.com/slayer-br">
     <img height="170" src="https://github-stats-extended.vercel.app/api?username=slayer-br&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas GitHub" />
