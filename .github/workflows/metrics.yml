@@ -19,9 +19,13 @@ jobs:
           filename: assets/metrics.svg
           base: header, activity, community, repositories, metadata
 
-          # Configuração simplificada para não analisar commits recentes
+          # Escopo de repositórios do usuário
+          repositories_affiliations: owner
+
+          # Plugin de linguagens ajustado
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_languages_categories: markup, programming # Inclui HTML, CSS, JS, TS, etc.
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
