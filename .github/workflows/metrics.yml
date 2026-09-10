@@ -17,8 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: slayer-br
           filename: metrics.svg
-          
-          # Direciona explicitamente a saída para a Gist
+
+          # FORÇA a saída para o Gist (impede commits no repositório)
           output_action: gist
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
