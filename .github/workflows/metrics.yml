@@ -23,8 +23,9 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
 
-          # Escopo de repositórios
-          repositories_affiliations: owner
+          # Configurações de Repositórios e Forks
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
 
           # Plugin de linguagens
           plugin_languages: yes
@@ -33,5 +34,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
+          
+          # Aumenta o tempo limite de análise por repositório
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 15
 
           plugin_lines: yes
