@@ -17,10 +17,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: slayer-br
           
-          # Envia a imagem diretamente para a sua Gist
+          # Configuração correta para envio via Gist
           config_output: gist
-          gists_token: ${{ secrets.METRICS_TOKEN }}
-          gist: 4c0179ac4ae471f63c5cbbbaf76e7875
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
 
           # Escopo de repositórios
           repositories_affiliations: owner
