@@ -18,8 +18,8 @@ jobs:
           user: slayer-br
           filename: metrics.svg
           
-          # Configuração de saída para a Gist
-          config_output: gist
+          # Direciona explicitamente a saída para a Gist
+          output_action: gist
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
 
