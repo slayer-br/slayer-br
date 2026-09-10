@@ -18,19 +18,16 @@ jobs:
           user: slayer-br
           filename: metrics.svg
 
-          # FORÇA a saída para o Gist
+          # Envia a imagem gerada direto para o Gist
           output_action: gist
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: 4c0179ac4ae471f63c5cbbbaf76e7875
 
-          # Configuração de Busca nos Repositórios
+          # Escopo de busca de repositórios
           repositories_affiliations: owner, collaborator
           repositories_forks: yes
 
-          # Garante a busca detalhada em todos os repositórios do perfil
-          base_indepth: yes
-
-          # Plugin de Linguagens
+          # Configuração Global do Plugin de Linguagens
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
@@ -38,7 +35,8 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
 
-          # Desativa o indepth do plugin para usar o cálculo direto de bytes da API do GitHub
+          # Desativa a estimativa por commits recentes para ler o total real em bytes
           plugin_languages_indepth: no
+          plugin_languages_recent_load: 0
 
           plugin_lines: yes
