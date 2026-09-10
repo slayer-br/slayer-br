@@ -15,7 +15,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://gist.githubusercontent.com/slayer-br/4c0179ac4ae471f63c5cbbbaf76e7875/raw/metrics.svg?sanitize=true" alt="GitHub Metrics" />
+  <img src="https://gist.githubusercontent.com/slayer-br/4c0179ac4ae471f63c5cbbbaf76e7875/raw/metrics.svg?sanitize=true&v=3" alt="GitHub Metrics" />
 </div>
 
 ---
